@@ -1,6 +1,6 @@
 # Machine Learning Exam Exercise Analysis
 
-Based on the analysis of 29 exam files, here is the breakdown of exercise types, their frequency, and where they appear. Made in python
+Based on the analysis of 29 exam files, here is the breakdown of exercise types, their frequency, and where they appear. Made in Python
 
 ## Most Common Exercise Types
 
