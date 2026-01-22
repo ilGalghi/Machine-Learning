@@ -1,0 +1,264 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Machine Learning \u2013 Test - November 4, 2019",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          116.244140625,
+          49.88671875
+        ],
+        [
+          500.7684020996094,
+          49.88671875
+        ],
+        [
+          500.7684020996094,
+          67.88507080078125
+        ],
+        [
+          116.244140625,
+          67.88507080078125
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.3515625,
+          274.5703125
+        ],
+        [
+          138.50643920898438,
+          274.5703125
+        ],
+        [
+          138.50643920898438,
+          285.7253112792969
+        ],
+        [
+          63.3515625,
+          285.7253112792969
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.052734375,
+          585.87890625
+        ],
+        [
+          138.50643920898438,
+          585.87890625
+        ],
+        [
+          138.50643920898438,
+          597.3123016357422
+        ],
+        [
+          63.052734375,
+          597.3123016357422
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.3515625,
+          685.65234375
+        ],
+        [
+          138.50643920898438,
+          685.65234375
+        ],
+        [
+          138.50643920898438,
+          697.1432876586914
+        ],
+        [
+          63.3515625,
+          697.1432876586914
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.455078125,
+          53.75390625
+        ],
+        [
+          138.50643920898438,
+          53.75390625
+        ],
+        [
+          138.50643920898438,
+          65.51129150390625
+        ],
+        [
+          62.455078125,
+          65.51129150390625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 5",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.455078125,
+          250.59375
+        ],
+        [
+          138.49560546875,
+          250.59375
+        ],
+        [
+          138.49560546875,
+          261.6383056640625
+        ],
+        [
+          62.455078125,
+          261.6383056640625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 6",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.455078125,
+          585.4921875
+        ],
+        [
+          138.50643920898438,
+          585.4921875
+        ],
+        [
+          138.50643920898438,
+          597.852294921875
+        ],
+        [
+          62.455078125,
+          597.852294921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/exam_20191104"
+}

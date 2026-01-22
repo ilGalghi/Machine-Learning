@@ -1,0 +1,225 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Machine Learning \u2013 December 18, 2023",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          139.552734375,
+          49.88671875
+        ],
+        [
+          477.19696044921875,
+          49.88671875
+        ],
+        [
+          477.19696044921875,
+          67.88507080078125
+        ],
+        [
+          139.552734375,
+          67.88507080078125
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.650390625,
+          275.34375
+        ],
+        [
+          138.50643920898438,
+          275.34375
+        ],
+        [
+          138.50643920898438,
+          287.7472839355469
+        ],
+        [
+          63.650390625,
+          287.7472839355469
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.3515625,
+          509.41424560546875
+        ],
+        [
+          138.65625,
+          509.41424560546875
+        ],
+        [
+          138.65625,
+          520.3233642578125
+        ],
+        [
+          63.3515625,
+          520.3233642578125
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.052734375,
+          54.140625
+        ],
+        [
+          138.50643920898438,
+          54.140625
+        ],
+        [
+          138.50643920898438,
+          65.51129150390625
+        ],
+        [
+          63.052734375,
+          65.51129150390625
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.75390625,
+          182.14453125
+        ],
+        [
+          138.50643920898438,
+          182.14453125
+        ],
+        [
+          138.50643920898438,
+          193.8563232421875
+        ],
+        [
+          62.75390625,
+          193.8563232421875
+        ]
+      ]
+    },
+    {
+      "title": "EXERCISE 5",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.650390625,
+          297.7432556152344
+        ],
+        [
+          138.5064697265625,
+          297.7432556152344
+        ],
+        [
+          138.5064697265625,
+          308.6523742675781
+        ],
+        [
+          63.650390625,
+          308.6523742675781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/exam_20231218"
+}

@@ -1,0 +1,206 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Machine Learning 2017/2018",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.111328125,
+          171.31640625
+        ],
+        [
+          407.4454345703125,
+          171.31640625
+        ],
+        [
+          407.4454345703125,
+          188.63739013671875
+        ],
+        [
+          201.111328125,
+          188.63739013671875
+        ]
+      ]
+    },
+    {
+      "title": "Example 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          277.611328125,
+          229.32421875
+        ],
+        [
+          330.859130859375,
+          229.32421875
+        ],
+        [
+          330.859130859375,
+          242.136474609375
+        ],
+        [
+          277.611328125,
+          242.136474609375
+        ]
+      ]
+    },
+    {
+      "title": "Question 4. (5 points)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          125.5078125,
+          540.6328125
+        ],
+        [
+          227.41600036621094,
+          540.6328125
+        ],
+        [
+          227.41600036621094,
+          552.384765625
+        ],
+        [
+          125.5078125,
+          552.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Question 5. (5 points)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          124.91015625,
+          205.34765625
+        ],
+        [
+          227.70703125,
+          205.34765625
+        ],
+        [
+          227.70703125,
+          216.90277099609375
+        ],
+        [
+          124.91015625,
+          216.90277099609375
+        ]
+      ]
+    },
+    {
+      "title": "Question 6. (5 points)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          124.3125,
+          380.91796875
+        ],
+        [
+          227.4160919189453,
+          380.91796875
+        ],
+        [
+          227.4160919189453,
+          392.642822265625
+        ],
+        [
+          124.3125,
+          392.642822265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/exam_2017"
+}
