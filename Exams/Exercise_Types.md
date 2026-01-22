@@ -12,6 +12,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Soft margins and slack variables.
 - Kernel functions.
 - Solving for small datasets or drawing boundaries.
+
 **Appears in:** `exam_20181220`, `exam_2018_01`, `exam_2018_02`, `exam_201901-A`, `exam_201901-B`, `exam_201902-A`, `exam_201902-B`, `exam_20191015`, `exam_20191104`, `exam_20210119`, `exam_20210622`, `exam_20231218`, `exam_20240119`, `exam_20240726`, `exam_20241216`, `exam_20250130`, `exam_20250917`, `exam_20251217`, `examtest1`
 
 ### 2. Neural Networks (MLP & Backprop)
@@ -22,6 +23,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Backpropagation algorithm steps.
 - Stochastic Gradient Descent (SGD) details.
 - Designing a network for a specific regression/classification problem.
+
 **Appears in:** `exam_20181220`, `exam_2018_02`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191216_erasmus`, `exam_20210119`, `exam_20231218`, `exam_20240119`, `exam_20240726`, `exam_20250917`, `examtest2`
 
 ### 3. Bayesian Learning
@@ -32,6 +34,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - MAP (Maximum A Posteriori) vs ML (Maximum Likelihood) hypotheses.
 - Naive Bayes Classifier.
 - Bayes Optimal Classifier.
+
 **Appears in:** `exam_2018_01`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191015`, `exam_20191216_erasmus`, `exam_20231218`, `exam_20240119`, `exam_20241216`, `exam_20250917`, `exam_20251022`, `exam_20251217`
 
 ### 4. Decision Trees
@@ -42,6 +45,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Classify a sample given a tree.
 - Calculate Entropy or Information Gain.
 - Draw a decision tree for a simple dataset.
+
 **Appears in:** `exam_2018_02`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191104`, `exam_20191216_erasmus`, `exam_20231218`, `exam_20250130`, `exam_20251022`, `examtest1`
 
 ### 5. Evaluation Metrics
@@ -53,6 +57,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Accuracy, Precision, Recall, F1 Score.
 - ROC curves.
 - Overfitting definitions.
+
 **Appears in:** `exam_201902-A`, `exam_201902-B`, `exam_20191104`, `exam_20210119`, `exam_20210622`, `exam_20240119`, `exam_20240726`, `exam_20241216`, `exam_20250917`, `examtest1`
 
 ### 6. K-Nearest Neighbors (K-NN)
@@ -62,6 +67,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Algorithm description.
 - Classifying a point given a 2D dataset.
 - Choice of K.
+
 **Appears in:** `exam_20181220`, `exam_2018_03`, `exam_201902-A`, `exam_201902-B`, `exam_20191015`, `exam_20191104`, `exam_20250917`, `examtest1`
 
 ### 7. CNNs (Convolutional Neural Networks)
@@ -70,6 +76,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Description:**
 - Calculating output dimensions and parameter counts for specific layers (Conv, Pool).
 - describing operations (Stride, Padding).
+
 **Appears in:** `exam_2018_01`, `exam_201902-A`, `exam_201902-B`, `exam_20210622`, `exam_20240726`, `exam_20250130`, `exam_20251022`
 
 ### 8. Clustering (K-Means)
@@ -79,6 +86,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Unsupervised learning definitions.
 - K-Means algorithm steps and termination conditions.
 - Simulating K-Means on small 2D datasets.
+
 **Appears in:** `exam_20181220`, `exam_2018_03`, `exam_20191216_erasmus`, `exam_20210622`, `exam_20240119`, `exam_20250130`, `examtest2`
 
 ### 9. Linear Models (Regression/Classification)
@@ -88,6 +96,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Linear Regression and Perceptron.
 - Outliers effect.
 - Linearly separable data.
+
 **Appears in:** `exam_2018_01`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191104`, `exam_20250130`, `examtest1`
 
 ### 10. Ensemble Methods
@@ -97,6 +106,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Description:**
 - Bagging and Boosting.
 - AdaBoost algorithm error function.
+
 **Appears in:** `exam_20181220`, `exam_2018_02`, `exam_20191015`, `exam_20250917`, `exam_20251217`, `examtest2`
 
 ### 11. Markov Models & Reinforcement Learning
@@ -106,6 +116,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 - Markov Property.
 - Difference between MDP and HMM.
 - Graphical models.
+
 **Appears in:** `exam_2018_01`, `exam_201902-A`, `exam_201902-B`, `exam_20240726`, `examtest2`
 
 ### 12. Dimensionality Reduction (PCA)
@@ -114,6 +125,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Description:**
 - Intrinsic dimensionality.
 - Principal Component Analysis steps.
+
 **Appears in:** `exam_2018_01`, `exam_20210119`, `exam_20210622`
 
 ### Other / General Theory
