@@ -6,6 +6,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 1. Support Vector Machines (SVM)
 **Frequency:** 20 exams
+
 **Description:** Questions typically involve:
 - Describing the maximization of the margin.
 - Soft margins and slack variables.
@@ -15,6 +16,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 2. Neural Networks (MLP & Backprop)
 **Frequency:** 16 exams
+
 **Description:** Questions focus on:
 - Feedforward architecture and activation functions.
 - Backpropagation algorithm steps.
@@ -24,6 +26,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 3. Bayesian Learning
 **Frequency:** 12 exams
+
 **Description:** Common topics:
 - Bayes Theorem application.
 - MAP (Maximum A Posteriori) vs ML (Maximum Likelihood) hypotheses.
@@ -32,7 +35,9 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Appears in:** `exam_2018_01`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191015`, `exam_20191216_erasmus`, `exam_20231218`, `exam_20240119`, `exam_20241216`, `exam_20250917`, `exam_20251022`, `exam_20251217`
 
 ### 4. Decision Trees
+
 **Frequency:** 10 exams
+
 **Description:** Exercises often ask to:
 - Classify a sample given a tree.
 - Calculate Entropy or Information Gain.
@@ -40,7 +45,9 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Appears in:** `exam_2018_02`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191104`, `exam_20191216_erasmus`, `exam_20231218`, `exam_20250130`, `exam_20251022`, `examtest1`
 
 ### 5. Evaluation Metrics
+
 **Frequency:** 10 exams
+
 **Description:** Focus on performance measurement:
 - Confusion Matrix definition and calculation.
 - Accuracy, Precision, Recall, F1 Score.
@@ -50,6 +57,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 6. K-Nearest Neighbors (K-NN)
 **Frequency:** 8 exams
+
 **Description:**
 - Algorithm description.
 - Classifying a point given a 2D dataset.
@@ -58,6 +66,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 7. CNNs (Convolutional Neural Networks)
 **Frequency:** 7 exams
+
 **Description:**
 - Calculating output dimensions and parameter counts for specific layers (Conv, Pool).
 - describing operations (Stride, Padding).
@@ -65,6 +74,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 8. Clustering (K-Means)
 **Frequency:** 7 exams
+
 **Description:**
 - Unsupervised learning definitions.
 - K-Means algorithm steps and termination conditions.
@@ -73,6 +83,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 9. Linear Models (Regression/Classification)
 **Frequency:** 7 exams
+
 **Description:**
 - Linear Regression and Perceptron.
 - Outliers effect.
@@ -80,7 +91,9 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 **Appears in:** `exam_2018_01`, `exam_2018_03`, `exam_201901-A`, `exam_201901-B`, `exam_20191104`, `exam_20250130`, `examtest1`
 
 ### 10. Ensemble Methods
+
 **Frequency:** 6 exams
+
 **Description:**
 - Bagging and Boosting.
 - AdaBoost algorithm error function.
@@ -88,6 +101,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 11. Markov Models & Reinforcement Learning
 **Frequency:** 6 exams
+
 **Description:**
 - Markov Property.
 - Difference between MDP and HMM.
@@ -96,6 +110,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### 12. Dimensionality Reduction (PCA)
 **Frequency:** 3 exams
+
 **Description:**
 - Intrinsic dimensionality.
 - Principal Component Analysis steps.
@@ -103,6 +118,7 @@ Based on the analysis of 29 exam files, here is the breakdown of exercise types,
 
 ### Other / General Theory
 **Frequency:** ~19 exams
+
 **Description:**
 - General definitions (Supervised vs Unsupervised).
 - General hypothesis consistency checks.
@@ -163,6 +179,7 @@ Based on the analysis of 29 exam files, categorized by topic and temporal trends
 - **Files**: `exam_2018_01`, `exam_20231218`, `exam_20241216`, `exam_20251022`, `exam_20251217` ...
 
 ### 4. Decision Trees
+
 **Total Count:** 9
 **Recent Frequency (Post-2023):** 3 (Medium)
 **Typical Questions:**
@@ -171,6 +188,7 @@ Based on the analysis of 29 exam files, categorized by topic and temporal trends
 - **Files**: `exam_20191104`, `exam_20250130`, `exam_20251022` ...
 
 ### 5. Evaluation Metrics
+
 **Total Count:** 9
 **Recent Frequency (Post-2023):** 4 (Medium)
 **Typical Questions:**
@@ -194,6 +212,7 @@ Based on the analysis of 29 exam files, categorized by topic and temporal trends
 - **Files**: `exam_20210622`, `exam_20240726`, `exam_20250130` ...
 
 ### 8. Ensemble Methods
+
 **Total Count:** 5
 **Recent Frequency (Post-2023):** 2 (Low-Medium)
 **Typical Questions:**
