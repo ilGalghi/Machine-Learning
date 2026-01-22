@@ -2,10 +2,10 @@
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
-| Exams | Yes | 2024 |
+| Exams | Yes | 2026 |
 | Homework  | Yes  | 2019 |
 | Notes  | Yes  | 2023 | 
-| Slides | Yes | 2021 |
+| Slides | Yes | 2026 |
 
 ## Solutions of Exams by
 
