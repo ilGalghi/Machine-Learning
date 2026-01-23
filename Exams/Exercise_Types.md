@@ -253,3 +253,125 @@ Based on the analysis of 29 exam files, categorized by topic and temporal trends
 ### Older Exams (Examples)
 *   `exam_2018_01`: CNN, Bayesian, SVM, Linear Models, Instructions.
 *   `exam_201901-A`: Neural Networks, Decision Trees, SVM, Linear Models.
+
+# Monthly Frequency Analysis
+
+## January
+**Total exercises analyzed:** 40
+
+Most frequent exercises:
+- **Support Vector Machines (SVM)**: 8 times (20.0%)
+- **Linear Models (Regression/Perceptron)**: 8 times (20.0%)
+- **Neural Networks (MLP & Backprop)**: 5 times (12.5%)
+- **Evaluation Metrics**: 5 times (12.5%)
+- **Bayesian Learning**: 3 times (7.5%)
+- **Decision Trees**: 3 times (7.5%)
+- **CNNs (Convolutional Neural Networks)**: 2 times (5.0%)
+- **Dimensionality Reduction (PCA)**: 2 times (5.0%)
+- **Reinforcement Learning & Markov**: 2 times (5.0%)
+- **Clustering (K-Means & GMM)**: 2 times (5.0%)
+
+## February
+**Total exercises analyzed:** 27
+
+Most frequent exercises:
+- **Reinforcement Learning & Markov**: 4 times (14.8%)
+- **Support Vector Machines (SVM)**: 4 times (14.8%)
+- **Linear Models (Regression/Perceptron)**: 4 times (14.8%)
+- **Neural Networks (MLP & Backprop)**: 3 times (11.1%)
+- **Evaluation Metrics**: 3 times (11.1%)
+- **Clustering (K-Means & GMM)**: 3 times (11.1%)
+- **CNNs (Convolutional Neural Networks)**: 2 times (7.4%)
+- **K-Nearest Neighbors (K-NN)**: 2 times (7.4%)
+- **Decision Trees**: 1 times (3.7%)
+- **Ensemble Methods**: 1 times (3.7%)
+
+## March
+**Total exercises analyzed:** 7
+
+Most frequent exercises:
+- **Decision Trees**: 1 times (14.3%)
+- **Evaluation Metrics**: 1 times (14.3%)
+- **Bayesian Learning**: 1 times (14.3%)
+- **Clustering (K-Means & GMM)**: 1 times (14.3%)
+- **K-Nearest Neighbors (K-NN)**: 1 times (14.3%)
+- **Neural Networks (MLP & Backprop)**: 1 times (14.3%)
+- **Linear Models (Regression/Perceptron)**: 1 times (14.3%)
+
+## June
+**Total exercises analyzed:** 6
+
+Most frequent exercises:
+- **Evaluation Metrics**: 1 times (16.7%)
+- **Support Vector Machines (SVM)**: 1 times (16.7%)
+- **Neural Networks (MLP & Backprop)**: 1 times (16.7%)
+- **CNNs (Convolutional Neural Networks)**: 1 times (16.7%)
+- **Clustering (K-Means & GMM)**: 1 times (16.7%)
+- **Dimensionality Reduction (PCA)**: 1 times (16.7%)
+
+## July
+**Total exercises analyzed:** 10
+
+Most frequent exercises:
+- **Linear Models (Regression/Perceptron)**: 2 times (20.0%)
+- **Reinforcement Learning & Markov**: 2 times (20.0%)
+- **Support Vector Machines (SVM)**: 2 times (20.0%)
+- **Evaluation Metrics**: 1 times (10.0%)
+- **Neural Networks (MLP & Backprop)**: 1 times (10.0%)
+- **CNNs (Convolutional Neural Networks)**: 1 times (10.0%)
+- **Clustering (K-Means & GMM)**: 1 times (10.0%)
+
+## September
+**Total exercises analyzed:** 7
+
+Most frequent exercises:
+- **Evaluation Metrics**: 1 times (14.3%)
+- **Bayesian Learning**: 1 times (14.3%)
+- **Support Vector Machines (SVM)**: 1 times (14.3%)
+- **K-Nearest Neighbors (K-NN)**: 1 times (14.3%)
+- **Neural Networks (MLP & Backprop)**: 1 times (14.3%)
+- **Reinforcement Learning & Markov**: 1 times (14.3%)
+- **Ensemble Methods**: 1 times (14.3%)
+
+## October
+**Total exercises analyzed:** 14
+
+Most frequent exercises:
+- **Evaluation Metrics**: 2 times (14.3%)
+- **Support Vector Machines (SVM)**: 2 times (14.3%)
+- **Linear Models (Regression/Perceptron)**: 2 times (14.3%)
+- **Ensemble Methods**: 2 times (14.3%)
+- **K-Nearest Neighbors (K-NN)**: 1 times (7.1%)
+- **Decision Trees**: 1 times (7.1%)
+- **Bayesian Learning**: 1 times (7.1%)
+- **Neural Networks (MLP & Backprop)**: 1 times (7.1%)
+- **CNNs (Convolutional Neural Networks)**: 1 times (7.1%)
+- **Reinforcement Learning & Markov**: 1 times (7.1%)
+
+## November
+**Total exercises analyzed:** 7
+
+Most frequent exercises:
+- **Decision Trees**: 1 times (14.3%)
+- **Reinforcement Learning & Markov**: 1 times (14.3%)
+- **Bayesian Learning**: 1 times (14.3%)
+- **Support Vector Machines (SVM)**: 1 times (14.3%)
+- **Linear Models (Regression/Perceptron)**: 1 times (14.3%)
+- **Evaluation Metrics**: 1 times (14.3%)
+- **K-Nearest Neighbors (K-NN)**: 1 times (14.3%)
+
+## December
+**Total exercises analyzed:** 29
+
+Most frequent exercises:
+- **Linear Models (Regression/Perceptron)**: 6 times (20.7%)
+- **Bayesian Learning**: 4 times (13.8%)
+- **Support Vector Machines (SVM)**: 4 times (13.8%)
+- **Reinforcement Learning & Markov**: 3 times (10.3%)
+- **Neural Networks (MLP & Backprop)**: 3 times (10.3%)
+- **Decision Trees**: 2 times (6.9%)
+- **Clustering (K-Means & GMM)**: 2 times (6.9%)
+- **Evaluation Metrics**: 2 times (6.9%)
+- **Ensemble Methods**: 2 times (6.9%)
+- **K-Nearest Neighbors (K-NN)**: 1 times (3.4%)
+
